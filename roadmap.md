@@ -64,6 +64,7 @@
 - Reading and writing text files (open, read, write) (Чтение и запись текстовых файлов)
 - Working with binary files (Чтение и запись двоичных файлов)
 - File and directory manipulation (os, sys, pathlib, shutil) (Работа с файлами и каталогами)
+- Working with time and dates (datetime) (Работа со временем и датами) 
 - Exception handling in file operations (Обработка исключений при работе с файлами)
 - Working with CSV, JSON, XML, and YAML files + configparser (Работа с CSV, JSON, XML и YAML файлами)
 - subprocess, sys.argv (Работа с внешними процессами и аргументами командной строки)
